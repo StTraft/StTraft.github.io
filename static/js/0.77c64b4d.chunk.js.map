@@ -1,0 +1,1 @@
+{"version":3,"sources":["locale/zh.ts"],"names":["__webpack_require__","r","__webpack_exports__","caption","title","subTitle"],"mappings":"yFAAAA,EAAAC,EAAAC,GAAeA,EAAA,SACbC,QAAS,CACPC,MAAO,2BACPC,SAAU","file":"static/js/0.77c64b4d.chunk.js","sourcesContent":["export default {\n  caption: {\n    title: '追求卓越',\n    subTitle: 'Hello World! (zh)',\n  },\n}\n"],"sourceRoot":""}
