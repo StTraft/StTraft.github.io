@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{24:function(t,i,e){"use strict";e.r(i),i.default={caption:{title:"\u8ffd\u6c42\u5353\u8d8a",subTitle1:"\u4e0d\u8ad6\u7de8\u7a0b",subTitle2:"\u9084\u662f\u651d\u5f71"}}}}]);
+//# sourceMappingURL=0.ff35caf5.chunk.js.map
